@@ -7,3 +7,6 @@ captive bearing design, belt clamps and tensioners, and Peeler and display housi
 
 This version uses 1" aluminum Rollers with a .058 wall thickness instead of the supplied steel tubing..  
 It also uses 200mm x 3mm rods for the Y-axis instead of the standard 150mm supplied with the kit.
+
+#Updated 03/08.
+Upgraded extruder design to use dual bondtech style gear hobbs.
