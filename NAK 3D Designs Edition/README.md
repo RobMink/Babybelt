@@ -10,3 +10,8 @@ It also uses 200mm x 3mm rods for the Y-axis instead of the standard 150mm suppl
 
 # Updated 03/08.
 Upgraded extruder design to use dual bondtech style gear hobbs.
+
+# Update 03/16
+Updated STEP file to V107.
+This version has an updated extruder with a guide bearing to help prevent the stepper from twisting.  
+It also includes an updated Y-axis slider with a 25mm hotend cooling fan and air duct, and a layer cooling fan as well.
