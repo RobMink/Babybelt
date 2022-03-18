@@ -15,3 +15,7 @@ Upgraded extruder design to use dual bondtech style gear hobbs.
 Updated STEP file to V107.
 This version has an updated extruder with a guide bearing to help prevent the stepper from twisting.  
 It also includes an updated Y-axis slider with a 25mm hotend cooling fan and air duct, and a layer cooling fan as well.
+
+# Update 03/18
+Updated to STEP file V110
+This revision corrects a clearance issue with the layer cooling fan shroud and also incorporates a revised version of the worm drive gear.
