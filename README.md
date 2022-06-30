@@ -7,6 +7,8 @@ DISCORD:   https://discord.gg/nVmeNJJSH2BB   - Note, remove BB at the end of the
 
 Youtube: www.youtube.com/c/robmink
 
+If you wish to support the project : https://www.patreon.com/Printcepts
+
 
 •	45 Degree belt printer 85 mm by 86 mm axis
 
