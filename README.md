@@ -1,5 +1,5 @@
 # Babybelt
-Hello!  Wecome to the github repo for Babybelt!
+Hello!  Welcome to the github repo for Babybelt!
 
 www.printcepts.com
 
