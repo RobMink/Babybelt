@@ -66,7 +66,7 @@ Only two types of screws used for every thing (discipline design approach reduci
 
 
 
-Non commerical,  Help from Autodrop3d's mmiscool and NAK-3d.
+Non commerical,  Help from Autodrop3d's mmiscool, Ottersdangerden and NAK-3d.
 
 
 
