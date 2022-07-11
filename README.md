@@ -5,6 +5,8 @@ www.printcepts.com
 
 BOM:https://docs.google.com/spreadsheets/d/1HSS2FmvWl4BJgFne0Ccxiv6K9c1OWvDrwnjKOO4NND4/edit?usp=sharing
 
+per version changes: https://docs.google.com/spreadsheets/d/1RWIczKBFYHM32IPGfSvWw3lULVfq1J2buDYnhtqqLhI/edit?usp=sharing
+
 DISCORD:   https://discord.gg/nVmeNJJSH2BB   - Note, remove BB at the end of the link.  Done to eleminate spam bots.
 
 Youtube: www.youtube.com/c/robmink
