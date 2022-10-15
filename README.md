@@ -1,6 +1,8 @@
 # Babybelt
 Hello!  Welcome to the github repo for Babybelt!
 
+Extruder, rolleridler and worm need support
+
 www.printcepts.com
 
 BOM:https://docs.google.com/spreadsheets/d/1HSS2FmvWl4BJgFne0Ccxiv6K9c1OWvDrwnjKOO4NND4/edit?usp=sharing
