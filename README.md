@@ -13,6 +13,8 @@ DISCORD:   https://discord.gg/nVmeNJJSH2BB   - Note, remove BB at the end of the
 
 Youtube: www.youtube.com/c/robmink
 
+Facebook https://www.facebook.com/groups/632751915097010
+
 If you wish to support the project : https://www.patreon.com/Printcepts
 
 
