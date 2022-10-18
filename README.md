@@ -22,7 +22,7 @@ If you wish to support the project : https://www.patreon.com/Printcepts
 
 •	Sensorless Homing
 
-•	24BJY48 motors
+•	28BJY48 motors
 
 •	Mostly 3d printed
 
