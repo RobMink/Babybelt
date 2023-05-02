@@ -8,6 +8,9 @@ captive bearing design, belt clamps and tensioners, and Peeler and display housi
 This version uses 1" aluminum Rollers with a .058 wall thickness instead of the supplied steel tubing..  
 It also uses 200mm x 3mm rods for the Y-axis instead of the standard 150mm supplied with the kit.
 
+Uses this 21.mm Panel Mount power jack - https://www.adafruit.com/product/610
+Uses this pushbutton - https://www.amazon.com/gp/product/B08P4HKCVX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 # Updated 03/08.
 Upgraded extruder design to use dual bondtech style gear hobbs.
 
