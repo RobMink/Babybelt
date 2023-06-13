@@ -1,7 +1,7 @@
 # Babybelt
 Hello!  Welcome to the github repo for Babybelt!
 
-Extruder, rolleridler and worm need support
+Extruder, rolleridler Right side and tentionarm need support
 
 www.printcepts.com
 
@@ -18,7 +18,7 @@ Facebook https://www.facebook.com/groups/632751915097010
 If you wish to support the project : https://www.patreon.com/Printcepts
 
 
-•	45 Degree belt printer 85 mm by 86 mm axis
+•	45 Degree belt printer 90 mm by 86 mm ish axis
 
 •	Sensorless Homing
 
@@ -26,7 +26,7 @@ If you wish to support the project : https://www.patreon.com/Printcepts
 
 •	Mostly 3d printed
 
-•	Belt is laminated – paper-carpet tape-cotton
+•	Belt is iron on cloth on fabric
 
 •	Runs on Marlin
 
@@ -54,7 +54,7 @@ Use of smallest cheapest stepper motors ever
 
 Use of 3mm round rods with 3mm PtfE tubes used as bearings
 
-Simple laminated belt made from fabric and paper along with use of jigs for repeatability. 
+Simple iron on belt made from fabric and iron on material along with use of jigs for repeatability. 
 
 Smallest belt printer ever (as of right now)
 
